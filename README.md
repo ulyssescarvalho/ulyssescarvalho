@@ -1,6 +1,6 @@
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Imagem">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Imagem">
 </p>
 
 <!--título-->
